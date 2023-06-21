@@ -52,6 +52,19 @@ Enter the login and password that you've put when you first created the VM. If y
 <img src="https://i.ibb.co/1Jr3ZM6/Step-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This tab will pop up, click on "Yes"
 </p>
 <br />
+<img src="https://i.ibb.co/QkXC7gj/Step-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Select the options, press "Accept" after 
+</p>
+<br />
+<img src="https://i.ibb.co/Ns1tCxy/step-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+We are now connected too the VM, you can confirm this by look at the top left corner. (It should show the VM IP address)
+</p>
+<br />
+<img src="https://i.ibb.co/6H0mVKm/Step-6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
