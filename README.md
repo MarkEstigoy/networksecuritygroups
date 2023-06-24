@@ -82,3 +82,11 @@ Launch the file once the download is complete. Use all default settings (don't c
 <img src="https://i.ibb.co/k1r97WC/step8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/yFVdrzx/step8-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/nbGxz0r/step8-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once everything is finished installing, open up the start menu and click on the wireshark icon too open up the app
+<img src="https://i.ibb.co/YcWpNr7/step9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Click on "Ethernet"
+<img src="https://i.ibb.co/s1pn5Tk/step9-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+After clicking on Ethernet; click on the blue shark icon too start capturing packets
+<img src="https://i.ibb.co/m8q8xd6/step9-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
