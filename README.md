@@ -68,3 +68,9 @@ We are now connected too the VM, you can confirm this by look at the top left co
 </p>
 <br />
 <img src="https://i.ibb.co/6H0mVKm/Step-6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once connected into VM1 desktop, search up "Wireshark.org" and download it. Make sure too download the appropiate file for your computer's system 
+</p>
+<br />
+<img src="https://i.ibb.co/XpVt0MM/step7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
