@@ -90,3 +90,8 @@ Click on "Ethernet"
 <img src="https://i.ibb.co/s1pn5Tk/step9-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 After clicking on Ethernet; click on the blue shark icon too start capturing packets
 <img src="https://i.ibb.co/m8q8xd6/step9-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p/>
+<br />
+It will start spamming traffic, you can see that 10.0.0.4 is our ip address
+<img src="https://i.ibb.co/n63Ynbk/step10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
