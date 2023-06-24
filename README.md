@@ -81,4 +81,4 @@ Launch the file once the download is complete. Use all default settings (don't c
 <br />
 <img src="https://i.ibb.co/k1r97WC/step8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/yFVdrzx/step8-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.ibb.co/mGjf6BJ/step8-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/nbGxz0r/step8-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
