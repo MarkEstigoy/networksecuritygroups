@@ -74,3 +74,11 @@ Once connected into VM1 desktop, search up "Wireshark.org" and download it. Make
 </p>
 <br />
 <img src="https://i.ibb.co/TYvctBS/step-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Launch the file once the download is complete. Use all default settings (don't change anything) , keep going until installation is finished
+</p>
+<br />
+<img src="https://i.ibb.co/k1r97WC/step8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/yFVdrzx/step8-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/mGjf6BJ/step8-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
