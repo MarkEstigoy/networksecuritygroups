@@ -94,4 +94,13 @@ After clicking on Ethernet; click on the blue shark icon too start capturing pac
 <br />
 It will start spamming traffic, you can see that 10.0.0.4 is our ip address
 <img src="https://i.ibb.co/n63Ynbk/step10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p/>
+<br />
+Next step is too filter all the traffic so it stops spamming, this is done by typing in "icmp" which stands for "internet control messaging protocol". This is the protocol that ping uses 
+<img src="https://i.ibb.co/MMXrzxf/step10-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p/>
+It should clear all the traffic and look blank like this
+<p/>
+<br />
+<img src="https://i.ibb.co/FqQx9BW/step10-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
