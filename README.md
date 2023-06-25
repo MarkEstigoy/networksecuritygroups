@@ -127,4 +127,16 @@ Congratulations! You have successfully performed a network action. The next type
 <p/>
 <br />
 <img src="https://i.ibb.co/H7x2tFg/step11.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p/>
+<br />
+Once everything is cleared, type in "ping -t 10.0.0.5" into windows powershell. This should start the perpetual ping ("-t" is the command for it)
+</p>
+<br />
+<img src="https://i.ibb.co/vHjXKHS/step11-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p/>
+<br />
+It should start too ping continuously like this
+<p/>
+<br />
+<img src="https://i.ibb.co/ZJ9RfTv/step11-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
