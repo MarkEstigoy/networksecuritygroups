@@ -109,4 +109,10 @@ Once all the traffic cleared, the next step is too ping VM2's ip address from VM
 <p/>
 <br />
 <img src="https://i.ibb.co/9hp1rxH/step10-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p/>
+<br />
+Once you get the ip address for VM2, open VM1 back up on remote desktop. Once back on VM1, open windows powershell (you can do this by typing "windows powershell" on the start menu) 
+<p/>
+<br />
+<img src="https://i.ibb.co/mJzQ4Cs/step10-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
