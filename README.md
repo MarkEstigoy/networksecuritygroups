@@ -103,4 +103,10 @@ It should clear all the traffic and look blank like this
 <p/>
 <br />
 <img src="https://i.ibb.co/FqQx9BW/step10-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p/>
+<br />
+Once all the traffic cleared, the next step is too ping VM2's ip address from VM1. You can find VM2 ip address by searching up virtual machines on portal.azure and clicking virtual machines tab. Once you find VM2, click on it and the ip address should show on the side. (Note- we are pinging the PRIVATE ip address) 
+<p/>
+<br />
+<img src="https://i.ibb.co/9hp1rxH/step10-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
