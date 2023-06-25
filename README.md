@@ -115,4 +115,10 @@ Once you get the ip address for VM2, open VM1 back up on remote desktop. Once ba
 <p/>
 <br />
 <img src="https://i.ibb.co/mJzQ4Cs/step10-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p/>
+<br />
+Next step is start pinging VM2 from VM1. Type "ping 10.0.0.5" into windows powershell and it should start too send requests too VM2. You can see the reply/request go through on wireshark (10.0.0.4 is VM1, 10.0.0.5 is VM2)
+<p/>
+<br />
+<img src="https://i.ibb.co/28dnnpW/step10-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
