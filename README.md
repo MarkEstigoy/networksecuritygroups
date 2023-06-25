@@ -121,4 +121,10 @@ Next step is start pinging VM2 from VM1. Type "ping 10.0.0.5" into windows power
 <p/>
 <br />
 <img src="https://i.ibb.co/28dnnpW/step10-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p/>
+<br />
+Congratulations! You have successfully performed a network action. The next type of ping we will do is called a "perpetual ping" which means a never ending ping, as well as learning how too use firewall too block incoming ping requests. First we have too start by clearing out our wireshark app, press the green "fin" button too clear it and press "Continue without saving"
+<p/>
+<br />
+<img src="https://i.ibb.co/H7x2tFg/step11.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
