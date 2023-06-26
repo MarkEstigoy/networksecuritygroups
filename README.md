@@ -145,8 +145,14 @@ The next step is learning how too block incoming traffic from VM1 to VM2 using N
 <img src= "https://i.ibb.co/NxM60XT/step12.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p/>
 <br />
-Click on VM2 and it should take you too this page. Click on "inbound security rules" too edit the firewall for VM2
+Click on VM2 and it should take you too this page. Click on "inbound security rules" 
 <p/>
 <br />
 <img src= "https://i.ibb.co/23jNygF/step12-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<p/>
+<br />
+What we want too do is add a security rule that will block incoming icmp traffic from VM1. To do this press the "Add" button and customize the settings to where protocol is "icmp" and action is "deny". For the "priority" section, make sure that this security rule is the lowest number too make sure that this rule is gets first priority. If any other rule has a priority number that is lower than this rule than that rule will "go first".
+<p/>
+<br />
+<img src= "https://i.ibb.co/T8FF8Jv/step12-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://i.ibb.co/C0ZHWJR/step12-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
