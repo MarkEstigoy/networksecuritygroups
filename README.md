@@ -156,3 +156,9 @@ What we want too do is add a security rule that will block incoming icmp traffic
 <br />
 <img src= "https://i.ibb.co/T8FF8Jv/step12-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src= "https://i.ibb.co/C0ZHWJR/step12-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p/>
+<br />
+Congratulations! You have now successfully blocked any incoming traffic going towards VM2. You can see the moment when traffic started being blocked by looking at the "Request timed out" on windows powershell and "no response found!" on wireshark. 
+<p/>
+<br />
+<img src= "https://i.ibb.co/bJhK2Yg/step-12-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
