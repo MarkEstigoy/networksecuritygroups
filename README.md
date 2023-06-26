@@ -139,4 +139,8 @@ It should start too ping continuously like this
 <p/>
 <br />
 <img src="https://i.ibb.co/ZJ9RfTv/step11-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p/>
+<br />
+The next step is learning how too block incoming traffic using Network security groups (Azure's firewall) Type "Network Security Groups" on the search bar in azure too get to the page. We can see NSG for both VM1 and VM2 
+<img src= "https://i.ibb.co/NxM60XT/step12.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
